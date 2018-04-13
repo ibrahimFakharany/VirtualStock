@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".UI.Home.HomeActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -19,6 +19,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".UI.Company.CompanyActivity" />
+        <activity android:name=".UI.Stock.StockActivity" />
+        <activity android:name=".UI.Chart.ChartActivity" />
+        <activity android:name=".UI.News.NewsActivity" />
+        <activity android:name=".UI.Indicator.IndicatorActivity" />
+        <activity android:name=".UI.Search.SearchActivity" />
+        <activity android:name=".UI.Profile.ProfileActivity"></activity>
     </application>
 
 </manifest>

@@ -5,4 +5,13 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="companie_menu_title">Companies</string>
+    <string name="stock_menu_title">Stock</string>
+    <string name="charts_menu_title">Charts</string>
+    <string name="news_menu_title">News</string>
+    <string name="indicator_menu_title">Indicators</string>
+    <string name="profile_menu_title">Profile</string>
+    <string name="log_menu_title">Log</string>
+    <string name="exit_menu_title">Exit</string>
+    <string name="home_menu_title">Home</string>
 </resources>
